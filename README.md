@@ -1,16 +1,21 @@
-### Hi there 👋
+## 🚑 into 💻
 
-<!--
-**joanterm/joanterm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 My name is Joanna 🌸
 
-Here are some ideas to get you started:
+## I'm a Front End Web Developer. My journey began more as a hobby that I picked up to practice problem solving. As time went on, it transitioned into a full time adventure that continues until today. I'm building up on skills I have aquired working in the medical field for over 8 years-- compassion, communication, reliability. Those are words that I believe describe me ✔️ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Some of the main technologies I have experience with:
+
+🌸 HTML
+
+🌸 CSS
+
+🌸 JavaScript
+
+🌸 React
+
+🌸 Wordpress
+
+I am experienced working with real clients building their websites in Wordpress. It gives me a huge please knowing my websites are being visited by real people every day. You can visit my portfolio at https://joannaterman.com/.
+
+## Feel free to reach out! I'm mostly active on Twitter 😉 
