@@ -1,4 +1,4 @@
-## 🚑 into 💻
+## 🏥 into 💻
 
 # Hi there! 👋 My name is Joanna 🌸
 
