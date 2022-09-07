@@ -19,3 +19,7 @@
 I am experienced working with real clients building their websites in Wordpress. It gives me a huge please knowing my websites are being visited by real people every day. You can visit my portfolio at https://joannaterman.com/.
 
 ## Feel free to reach out! I'm mostly active on Twitter 😉 
+
+<div align="center">
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" /></code>
+</div>
