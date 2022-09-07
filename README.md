@@ -1,22 +1,29 @@
-## 🏥 into 💻
+<h1>🏥 into 💻</h1>
 
-# Hi there! 👋 My name is Joanna 🌸
+<h1>Hi there! 👋 My name is Joanna 🌸</h1>
 
-## I'm a Front End Web Developer. My journey began more as a hobby that I picked up to practice problem solving. As time went on, it transitioned into a full time adventure that continues until today. I'm building up on skills I have aquired working in the medical field for over 8 years-- compassion, communication, reliability. Those are words that I believe describe me ✔️ 
+<h3>I'm a Full Stack Web Developer. My journey began more as a hobby that I picked up to practice problem solving. As time went on, it transitioned into a full time adventure that continues until today. I'm building up on skills I have aquired working in the medical field for over 8 years-- compassion, communication, reliability. Those are words that I believe describe me ✔️ </h3>
 
-#### Some of the main technologies I have experience with:
+<div align="center">⭐ ⭐ ⭐</div>
+<h3>Some of the main technologies I have experience with are listed below.</h3>
 
-🌸 HTML
+<h3>Front End: </h3>
 
-🌸 CSS
+🌸 HTML, CSS, JavaScript, React, React Hooks, API, Axios, TailwindCSS
 
-🌸 JavaScript
+<h3>Back End: </h3>
 
-🌸 React
+🌸 Node.js, Express, SQL
 
-🌸 Wordpress
+<h3>Additional: </h3>
 
-I am experienced working with real clients building their websites in Wordpress. It gives me a huge please knowing my websites are being visited by real people every day. You can visit my portfolio at https://joannaterman.com/.
+🌸 Wordpress, Responsive Design, Google Analytics, Google Search Console, Git, GitHub, VS Code, Vercel, Heroku, Knex, Jest, Cypress
 
-## Feel free to reach out! I'm mostly active on Twitter 😉 
+<div align="center">⭐ ⭐ ⭐</div>
 
+<h3>I am experienced working with real clients building their websites in Wordpress. It gives me a huge please knowing my websites are being visited by real people every day. You can visit my portfolio at https://joannaterman.com/. </h3>
+
+<h3>📌 Fun facts about me: </h3>
+<p>I speak both English and Polish. I love fall weather, Earl Grey tea is my favorite, and I enjoy spending time in the nature 🙂
+
+<h3>Feel free to reach out! I'm mostly active on Twitter and I'm very approachable 😉 </h3>
