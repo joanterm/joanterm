@@ -24,6 +24,6 @@
 <h3>I am experienced working with real clients building their websites in Wordpress. It gives me a huge please knowing my websites are being visited by real people every day. You can visit my portfolio at https://joannaterman.com/. </h3>
 
 <h3>📌 Fun facts about me: </h3>
-<p>I speak both English and Polish. I love fall weather, Earl Grey tea is my favorite, and I enjoy spending time in the nature 🙂
+<p>I speak both English and Polish. I have lived in the USA since I was 16 years old. I love fall weather, Earl Grey tea is my favorite, and I enjoy spending time in the nature 🙂
 
 <h3>Feel free to reach out! I'm mostly active on Twitter and I'm very approachable 😉 </h3>
