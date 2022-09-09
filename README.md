@@ -9,7 +9,7 @@
 
 <h3>Front End: </h3>
 
-🌸 HTML, CSS, JavaScript, React, React Hooks, API, Axios, TailwindCSS
+🌸 HTML, CSS, JavaScript, React.js, Hooks, Axios, TailwindCSS,  Wordpress
 
 <h3>Back End: </h3>
 
@@ -17,7 +17,7 @@
 
 <h3>Additional: </h3>
 
-🌸 Wordpress, Responsive Design, Google Analytics, Google Search Console, Git, GitHub, VS Code, Vercel, Heroku, Knex, Jest, Cypress
+🌸 Responsive Design, Google Analytics, Google Search Console, Git, GitHub, VS Code, Vercel, Heroku, Knex
 
 <div align="center">⭐ ⭐ ⭐</div>
 
