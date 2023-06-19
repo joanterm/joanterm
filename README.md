@@ -10,7 +10,7 @@
 
 <h3>Front End: </h3>
 
-🌸 HTML, CSS, JavaScript, React.js, Hooks, Axios, TailwindCSS,  Ant Design, Wordpress
+🌸 HTML, CSS, JavaScript, React.js, Axios, TailwindCSS,  Ant Design, Wordpress
 
 <h3>Back End: </h3>
 
